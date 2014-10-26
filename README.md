@@ -1,4 +1,4 @@
-hollywoodlou.github.io
+nolajmusic.github.io
 ======================
 
-Hollywood Lou website
+Nolaj Music Website
